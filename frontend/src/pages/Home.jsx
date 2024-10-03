@@ -9,7 +9,6 @@ import { MdOutlineDelete, MdOutlineAddBox } from "react-icons/md";
 import { baseUrl } from "../config";
 import BooksTable from "../components/home/BooksTable";
 import BackButton from "../components/BackButton";
-import { Book } from "../../../backend/models/bookModel";
 import BooksCard from "../components/home/BooksCard";
 const Home = () => {
   const [books, setBooks] = useState([]);
