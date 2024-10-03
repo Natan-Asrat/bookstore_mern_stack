@@ -1,7 +1,7 @@
 # Bookstore with MERN stack
 This project is a **Bookstore Application** built using the **MERN (MongoDB, Express.js, React.js, Node.js)** stack. The backend provides RESTful API endpoints for managing books, including functionalities like adding, retrieving, updating, and deleting book records. The frontend can later be built using React.js to consume this API and display the data to users.
 
-View live site [here](https://natans-bookstore-oemzbgkft-natan-asrats-projects.vercel.app/)
+View live site [here](https://natans-bookstore.vercel.app/)
 
 ## Frontend
 

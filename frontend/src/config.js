@@ -1,1 +1,1 @@
-export const baseUrl = 'https://bookstore-mern-stack-3fs3.onrender.com/';
+export const baseUrl = 'https://natans-bookstore.vercel.app/';
