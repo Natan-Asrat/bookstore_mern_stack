@@ -1,1 +1,1 @@
-export const baseUrl = 'http://localhost:5555/';
+export const baseUrl = 'https://bookstore-mern-stack-3fs3.onrender.com/';
