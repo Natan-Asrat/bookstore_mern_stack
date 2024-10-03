@@ -8,7 +8,7 @@ import cors from 'cors';
 const app = express();
 app.use(express.json())
 app.use(cors({
-    origin: 'https://natans-bookstore.vercel.app/',
+    origin: 'https://natans-bookstore.vercel.app',
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type']
 }))
