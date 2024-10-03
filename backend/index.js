@@ -13,7 +13,6 @@ app.use(cors({
     allowedHeaders: ['Content-Type']
 }))
 app.get("/", (request, response) => {
-    console.log(request)
     return response.status(234).send("Welcome to MERN Stack")
 });
 
